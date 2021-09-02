@@ -1,67 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2844fb42413e5b1f777707a3c601669",
+    "revision": "99c8cac9295e5ad52b532759db4c1745",
     "url": "/index.html"
   },
   {
-    "revision": "66b50d7038820e817470",
+    "revision": "17f49b1cf74cd4fd3b3e",
     "url": "/static/css/10.34917357.chunk.css"
   },
   {
-    "revision": "f52ba1b448af0521d072",
-    "url": "/static/css/5.5c274144.chunk.css"
+    "revision": "b4815550ffe94424f9c4",
+    "url": "/static/css/5.3be2bf6d.chunk.css"
   },
   {
     "revision": "4084e431be90f01d281e",
     "url": "/static/css/6.36fb357c.chunk.css"
   },
   {
-    "revision": "611d048500c6326d2725",
+    "revision": "830f5e8bb7d4b7a36838",
     "url": "/static/css/7.f5efd949.chunk.css"
   },
   {
-    "revision": "391a485ccab38d7841c8",
+    "revision": "d43f9ba1ea5172f0f10d",
     "url": "/static/css/8.2c28e1a7.chunk.css"
   },
   {
-    "revision": "d621cf3fe7aca71374e2",
+    "revision": "db9250727d3f94e93122",
     "url": "/static/css/9.2beb8d03.chunk.css"
   },
   {
-    "revision": "acaa33a35387d9625e7a",
+    "revision": "f5d8bdcbf6ef5eb140e5",
     "url": "/static/css/main.dc99cce0.chunk.css"
   },
   {
-    "revision": "99ca73048389a679fdbc",
-    "url": "/static/js/0.4bee58a4.chunk.js"
+    "revision": "8aa66ae4669e5245e84a",
+    "url": "/static/js/0.624bcdcc.chunk.js"
   },
   {
     "revision": "6fce53c7c7713ebf61712cc2929746fa",
-    "url": "/static/js/0.4bee58a4.chunk.js.LICENSE.txt"
+    "url": "/static/js/0.624bcdcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66b50d7038820e817470",
-    "url": "/static/js/10.e4c679f5.chunk.js"
+    "revision": "17f49b1cf74cd4fd3b3e",
+    "url": "/static/js/10.526c937f.chunk.js"
   },
   {
-    "revision": "f1413b50dafcffc38e80",
-    "url": "/static/js/11.711908ba.chunk.js"
+    "revision": "2c3b43eeb0a8f177d8b4",
+    "url": "/static/js/11.acea6d00.chunk.js"
   },
   {
-    "revision": "65c8dfeff0007c7abf92",
-    "url": "/static/js/3.5949366a.chunk.js"
+    "revision": "5b6d7714e4c498be83eb",
+    "url": "/static/js/3.631a81e2.chunk.js"
   },
   {
     "revision": "2f1704898b754a25fd9d3b781528bef3",
-    "url": "/static/js/3.5949366a.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.631a81e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6996cf8a670d9b784ee5",
-    "url": "/static/js/4.fc983138.chunk.js"
+    "revision": "8ae4c9f83cf6efd37e89",
+    "url": "/static/js/4.42669ee5.chunk.js"
   },
   {
-    "revision": "f52ba1b448af0521d072",
-    "url": "/static/js/5.4d44233a.chunk.js"
+    "revision": "b4815550ffe94424f9c4",
+    "url": "/static/js/5.37d54f84.chunk.js"
   },
   {
     "revision": "4084e431be90f01d281e",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/6.a925ec22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "611d048500c6326d2725",
-    "url": "/static/js/7.daf8dc7f.chunk.js"
+    "revision": "830f5e8bb7d4b7a36838",
+    "url": "/static/js/7.a5a64b3d.chunk.js"
   },
   {
-    "revision": "391a485ccab38d7841c8",
-    "url": "/static/js/8.0b38b62a.chunk.js"
+    "revision": "d43f9ba1ea5172f0f10d",
+    "url": "/static/js/8.621f4624.chunk.js"
   },
   {
-    "revision": "d621cf3fe7aca71374e2",
-    "url": "/static/js/9.03925b54.chunk.js"
+    "revision": "db9250727d3f94e93122",
+    "url": "/static/js/9.9b2b145c.chunk.js"
   },
   {
-    "revision": "acaa33a35387d9625e7a",
-    "url": "/static/js/main.8ea4e2fa.chunk.js"
+    "revision": "f5d8bdcbf6ef5eb140e5",
+    "url": "/static/js/main.3c1c975f.chunk.js"
   },
   {
-    "revision": "b301a77fff0fa68e1341",
-    "url": "/static/js/runtime-main.19d17287.js"
+    "revision": "ca248573f6eb97092bf6",
+    "url": "/static/js/runtime-main.133180f4.js"
   },
   {
     "revision": "3ec7855bda049234a59516c7d88dfb06",
@@ -106,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4c1dde7be1878fa0430bd987638000d",
     "url": "/static/media/avatar.d4c1dde7.webp"
+  },
+  {
+    "revision": "586de3de33c55c34b4a3911011e4100e",
+    "url": "/static/media/best_movies.586de3de.jpg"
   },
   {
     "revision": "74efc23c3fb1a471c47e1ada0f3ef29b",
